@@ -5,3 +5,8 @@ acm Tasks
 - Git
 - GitHub
 - Python
+
+## Skills
+- Git
+- GitHub
+- Python
